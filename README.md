@@ -1,2 +1,2 @@
 # Module_4
-A Whale Off The Portfolio
+Creating a custom portfolio and comparing it to the S&P500
